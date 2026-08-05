@@ -1,36 +1,86 @@
-# Hi, I'm Assylzhan 👋
+# 👋 Привет! Меня зовут Асылжан
 
-Software Engineering Student from Kazakhstan 🇰🇿
+Я студентка направления **«Программная инженерия и информационная безопасность»**.
 
-I enjoy building practical software projects in AI, backend development and information security. I use AI tools to speed up development while designing the application logic, testing functionality and improving the final result myself.
+Мне нравится разрабатывать реальные проекты, связанные с искусственным интеллектом, backend-разработкой и кибербезопасностью.
 
-## 💻 Tech Stack
+При создании проектов я использую современные AI-инструменты (GitHub Copilot, Claude, ChatGPT и другие) для ускорения разработки, но самостоятельно проектирую архитектуру, проверяю код, дорабатываю функциональность и принимаю технические решения.
+
+---
+
+# 🚀 Мои проекты
+
+## 🤖 AI Procurement Agent
+
+Интеллектуальная платформа для автоматизации закупок.
+
+### Возможности
+
+- Анализ поставщиков
+- Сравнение предложений
+- Работа с государственными закупками
+- AI-рекомендации
+- Аналитика
+- Отчёты
+
+Технологии:
+
+`Python`
+`JavaScript`
+`HTML`
+`CSS`
+`SQL`
+
+---
+
+## 🔒 NetGuard AI
+
+Проект по анализу сетевой безопасности.
+
+### Возможности
+
+- Анализ сетевого трафика
+- Поиск подозрительной активности
+- Мониторинг безопасности
+- Работа с AI
+
+Технологии:
+
+`Python`
+
+---
+
+## 📱 Mobile ULYS MVP
+
+MVP мобильного приложения.
+
+В проекте реализованы основные функции мобильного приложения и пользовательского интерфейса.
+
+---
+
+# 💻 Навыки
 
 - Python
 - SQL
 - HTML / CSS
 - JavaScript
-- Git & GitHub
+- Git
+- GitHub
 - Cisco Packet Tracer
 
-## 🚀 Featured Projects
+---
 
-### 🤖 AI Procurement Agent
-An AI-assisted procurement platform that helps compare suppliers, analyze procurement data and support purchasing decisions.
+# 🎯 Сейчас изучаю
 
-### 🔒 NetGuard AI
-A network security project focused on traffic analysis and anomaly detection.
+- Backend-разработку
+- Искусственный интеллект
+- Информационную безопасность
+- Архитектуру программного обеспечения
 
-### 📱 Mobile ULYS MVP
-A mobile application prototype developed as an MVP.
+---
 
-## 🎯 Currently Learning
+# 📫 Контакты
 
-- Backend Development
-- Artificial Intelligence
-- Software Engineering
-- Information Security
+📧 nissimasyl05@gmail.com
 
-## 📫 Contact
-
-Email: **nissimasyl05@gmail.com**
+🇰🇿 Казахстан
