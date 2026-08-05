@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Assylzhan 👋
 
-<!--
-**Assylzhan767/Assylzhan767** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering Student from Kazakhstan 🇰🇿
 
-Here are some ideas to get you started:
+I enjoy building practical software projects in AI, backend development and information security. I use AI tools to speed up development while designing the application logic, testing functionality and improving the final result myself.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+- Python
+- SQL
+- HTML / CSS
+- JavaScript
+- Git & GitHub
+- Cisco Packet Tracer
+
+## 🚀 Featured Projects
+
+### 🤖 AI Procurement Agent
+An AI-assisted procurement platform that helps compare suppliers, analyze procurement data and support purchasing decisions.
+
+### 🔒 NetGuard AI
+A network security project focused on traffic analysis and anomaly detection.
+
+### 📱 Mobile ULYS MVP
+A mobile application prototype developed as an MVP.
+
+## 🎯 Currently Learning
+
+- Backend Development
+- Artificial Intelligence
+- Software Engineering
+- Information Security
+
+## 📫 Contact
+
+Email: **nissimasyl05@gmail.com**
